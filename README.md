@@ -7,4 +7,4 @@ Eu me chamo Daniel Felipe, sou Técnico em Desenvolvimento em Sistema e atualmen
   - [Behance](https://www.behance.net/nadfelipe)
   
 #### contato:
-  - 📧[Email](nadfelipe.s@gmail.com)
+  - [Email](nadfelipe.s@gmail.com)
