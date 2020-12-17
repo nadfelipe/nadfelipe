@@ -5,6 +5,3 @@ Eu me chamo Daniel Felipe, sou Técnico em Desenvolvimento em Sistema e atualmen
 #### veja mais sobre mim em:
   - [LinkedIn](https://www.linkedin.com/in/nadfelipe/)
   - [Behance](https://www.behance.net/nadfelipe)
-  
-#### contato:
-  - [Email](nadfelipe.s@gmail.com)
