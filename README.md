@@ -1,5 +1,5 @@
 # Daniel Felipe
-### Instrutor de Formação Profissional II @ [Escola SENAI de Informática](https://informatica.sp.senai.br/)
+### Instrutor de Formação Profissional @ [Escola SENAI de Informática](https://informatica.sp.senai.br/)
 
 <div>
   <a href="https://www.linkedin.com/in/danielfelip/" target="_blank">
